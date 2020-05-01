@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"AnnaFight","characterIndex":0,"characterName":"AnnaWalk","classId":5,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Anna","traits":[],"initialLevel":1,"maxLevel":10,"name":"Anna","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
