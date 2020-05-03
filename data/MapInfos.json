@@ -7,6 +7,6 @@ null,
 {"id":5,"expanded":false,"name":"城堡","order":5,"parentId":0,"scrollX":819,"scrollY":451.5},
 {"id":6,"expanded":false,"name":"魔王城 1F","order":6,"parentId":0,"scrollX":1092,"scrollY":605.5},
 {"id":7,"expanded":false,"name":"魔王城 2F","order":7,"parentId":0,"scrollX":816,"scrollY":1956.5},
-{"id":8,"expanded":false,"name":"魔王城 3F","order":8,"parentId":0,"scrollX":816,"scrollY":556.5},
-{"id":9,"expanded":false,"name":"真魔王城","order":9,"parentId":0,"scrollX":811,"scrollY":451.5}
+{"id":8,"expanded":false,"name":"魔王城 3F","order":8,"parentId":0,"scrollX":816,"scrollY":1236.5},
+{"id":9,"expanded":false,"name":"真魔王城","order":9,"parentId":0,"scrollX":811,"scrollY":1948.5}
 ]
